@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+anubis/__init__.py
+anubis/anubis.py
+anubis/consts.py
+anubis.egg-info/PKG-INFO
+anubis.egg-info/SOURCES.txt
+anubis.egg-info/dependency_links.txt
+anubis.egg-info/requires.txt
+anubis.egg-info/top_level.txt

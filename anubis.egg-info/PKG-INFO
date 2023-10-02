@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: anubis
+Version: 0.0.1
+Summary: Location calculator
+Home-page: https://github.com/CuttingEdgeAI/anubis.git
+Author: Oleh Krainyk
+Author-email: oleh@cuttingedgeai.com
+License: Private
+Project-URL: Bug Tracker, https://github.com/CuttingEdgeAI/anubis/issues
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# anubis
+Location calculator from bounding box info
+
+Sample usage of main function -->
+
+from anubis import anubis
+
+event_position = anubis.get_event_pos('car', 0, 25.761594020315165, -80.37243827959333, 1920, 1080, 400, 400, 200, 100, 0)
+
+
+
