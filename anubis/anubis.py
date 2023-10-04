@@ -165,7 +165,3 @@ def does_classifications_have_probable_heights(*, classification: str) -> bool:
         bool: True if the classification has associated probable heights, False otherwise.
     """
     return classification in probable_heights
-
-
-
-get_event_local_pos('car', 90, 4032, 3024, 973.1006, 207.34973, 6.86, 10.16)
